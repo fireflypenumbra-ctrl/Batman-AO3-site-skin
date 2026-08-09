@@ -266,7 +266,7 @@ div.dynamic {
 
 .index .skins .icon,
 p.kudos {
-  background: url("https://64.media.tumblr.com/63acaa27ed20c8aa0b99b81dd7587b94/6cd5cb932b4c7533-5c/s1280x1920/252fef403dd73d23b586e892e7bbed98160c71f7.png");
+  background: url("https://64.media.tumblr.com/65091587808574604d9ed97ce4969841/032eb0ada7fd95f4-0f/s1280x1920/4a609d3383bce9719ec4bb7ff27b76e17948238a.png");
   background-size: 55px, 55px;
   border-radius: 5px;
   background-repeat: no-repeat;
@@ -274,7 +274,7 @@ p.kudos {
 
 .comment .icon .visitor,
 .tag .primary .icon {
-  background: url("https://64.media.tumblr.com/63acaa27ed20c8aa0b99b81dd7587b94/6cd5cb932b4c7533-5c/s1280x1920/252fef403dd73d23b586e892e7bbed98160c71f7.png");
+  background: url("https://64.media.tumblr.com/65091587808574604d9ed97ce4969841/032eb0ada7fd95f4-0f/s1280x1920/4a609d3383bce9719ec4bb7ff27b76e17948238a.png");
   background-size: 100px, 100px;
 }
 
