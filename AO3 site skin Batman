@@ -263,6 +263,7 @@ li.blurb {
 div.dynamic {
   background: none;
 }
+
 .index .skins .icon,
 p.kudos {
   background: url("https://64.media.tumblr.com/63acaa27ed20c8aa0b99b81dd7587b94/6cd5cb932b4c7533-5c/s1280x1920/252fef403dd73d23b586e892e7bbed98160c71f7.png");
@@ -270,11 +271,13 @@ p.kudos {
   border-radius: 5px;
   background-repeat: no-repeat;
 }
+
 .comment .icon .visitor,
 .tag .primary .icon {
   background: url("https://64.media.tumblr.com/63acaa27ed20c8aa0b99b81dd7587b94/6cd5cb932b4c7533-5c/s1280x1920/252fef403dd73d23b586e892e7bbed98160c71f7.png");
   background-size: 100px, 100px;
 }
+
 .resp-sharing-button--twitter,
 .resp-sharing-button--tumblr {
   background: #fceb9f !important;
