@@ -1,8 +1,9 @@
-log in to your ao3 account
-click on your pfp/ username to get to your dashboard
-click on ‘skins’
-click ‘create new site skin’
-give it a name
-paste the code (AO3 site skin Batman tab) into the CSS section
-click submit
-click use
+1. log in to your ao3 account
+2. click on your pfp/ username to get to your dashboard
+3. click on ‘skins’
+4. click ‘create new site skin’
+5. click ‘write custom CCS’
+6. give it a name
+7. paste the code (AO3 site skin Batman tab) into the CSS section
+8. click submit
+9. click use
