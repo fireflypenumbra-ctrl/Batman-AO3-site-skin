@@ -83,7 +83,7 @@ ul.navigation.actions li a,
 #dashboard.own {
   border-top: 5px solid #f7f5cd;
   border-bottom: 5px solid #f7f5cd;
-  box-shadow: 0px 0px 15px #f7f5cd;
+  box-shadow: 0px 0px 15px #56A8E3;
 }
 
 #footer {
